@@ -8,6 +8,6 @@
         https://bipronathsaha.netlify.app/
 ```
 
-## Author 
-[@BipronathSaha](https://www.twitter.com/BipronathS)
-[@BipronathSaha12](https://www.github.com/BipronathSaha12/)
+### Author 
+- [@BipronathSaha](https://www.twitter.com/BipronathS)
+- [@BipronathSaha12](https://www.github.com/BipronathSaha12/)
